@@ -6,7 +6,7 @@
 # The driver code with the function call is at the very bottom of this file. Just use that single function call
 # to run the operations.
 
-# I got this program's accuracy as high as I could. It seems to be about 70-90% or something.
+# I got this program's accuracy as high as I could. It seems to be about 70-80% or something.
 
 #----------------------------------------------------------------------------------------------------------------------------------------
 
