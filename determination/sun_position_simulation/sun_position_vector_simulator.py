@@ -6,6 +6,8 @@
 # Program-crash-detection-and-response algorithm equipped
 
 # Sun position vector function is modifiable (w/ respect to t)
+    # NOTE: If you want to modify this, you have to make it include both positive and neg. z values
+    # You also must be careful and test any changes
 # Decceleration and acceleration rate is included and modifiable
 # Angular momentum is included and modifiable
 # Discrete time stamps are modifiable
